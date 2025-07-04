@@ -1,5 +1,4 @@
 ## Hello, world 👋
-Computer Engineering student dedicated to building innovative solutions through code and data science.
 <!--
 **c-oliveiralopes/c-oliveiralopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
